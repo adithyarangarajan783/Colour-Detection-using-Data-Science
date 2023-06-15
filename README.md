@@ -50,4 +50,4 @@ To run the code, you need the following prerequisites:
 Contributions to this project are welcome. Feel free to open issues for any questions or problems you encounter. If you have any suggestions for improvements or new features, you can also submit pull requests.
 
 # License
-This project is licensed under the [MIT License]
+This project is licensed under the [MIT License](https://github.com/adithyarangarajan783/Colour-Detection-using-Data-Science/blob/main/LICENSE)
