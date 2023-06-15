@@ -13,10 +13,15 @@ To run the code, you need the following prerequisites:
 
 # Installation
 1. Clone the repository:
+   ```
    git clone <repository_url>
    cd <repository_name>
-2. Install the required dependencies:
+   ```
+   
+3. Install the required dependencies:
+   ```
    pip install opencv-python numpy scikit-learn
+   ```
 
 # Usage
 1. Dataset Preparation:
